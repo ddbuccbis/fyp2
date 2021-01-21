@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">savemyseat</string>
+    <string name="location">Location</string>
+
+        <!-- defining the array for our spinner -->
+        <array name="compType">
+            <item>Bar</item>
+            <item>Restaurant</item>
+            <item>Bar and Restaurant</item>
+        </array>
+
+</resources>
